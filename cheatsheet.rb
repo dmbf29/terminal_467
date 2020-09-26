@@ -30,3 +30,15 @@ mv file_name directory
 
 mv file_name new_file_name
 -> renames
+
+stt
+-> opens Sublime
+
+code
+-> open VS code
+
+cat
+-> prints the file in Terminal
+
+open .
+  -> open directory in finder
